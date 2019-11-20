@@ -34,20 +34,19 @@
 }
 .columnpink {padding: 45px;
              background-color: #D11284;
-             text-align:center;           
+                        
 }
 .glyphicon {font-size: 38px;
-            color: #FFFFFF;
-            
+            color: #FFFFFF;                     
 }
 .columnviolet {background-color: #73179D;
                text-align:center;
-               padding: 80px;           
+               width:33.2%;        
 }
-
-.fit-image { width:100% !important;
-                  height:200px;
-                  object-fit: cover;
-}
+.fit-image { width: 490px;}
 .heading  { color:#07C0EE;}
-
+.imagerow { display: flex;
+            flex-wrap: wrap;
+ }
+.glyphicon-pink { padding :0px 180px ;}
+.glyphicon-violet { padding :130px 0px ; }
